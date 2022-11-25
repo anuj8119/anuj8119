@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuj Mishra
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
+- 👀 Data Science enthusias 
+- 🌱 I’m currently working as a data scientiest or explore more about data engineering domain
 - 💞️ I’m looking to collaborate on Open source project
 - 📫 How to reach me ...anujm632@gmail.com
 <!---
